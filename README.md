@@ -1,0 +1,1 @@
+This is my kata-go-calc project
